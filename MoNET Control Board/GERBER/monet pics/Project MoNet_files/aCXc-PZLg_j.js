@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["ppMnX"]); }
+
+__d('NotificationsTabsModel',['fbt','EnterpriseLabsLoggingEvents','EnterpriseLabsTypedLogger'],(function a(b,c,d,e,f,g,h){if(c.__markCompiled)c.__markCompiled();var i={TABS:{all:h._("All"),myConversations:h._("My Conversations"),keywords:h._("Keywords")},_onTabSelectionChanged:function j(){var k=i.TABS[this.getSelectedIndex()];new (c('EnterpriseLabsTypedLogger'))().setEntityID('tab:'+k).setEvent(c('EnterpriseLabsLoggingEvents').NT_CLICK_TAB_CONVERSATIONS).log();}};f.exports=i;}),null);

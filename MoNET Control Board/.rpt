@@ -1,0 +1,149 @@
+** Drc report for /Users/jackheaton/Dropbox (Personal)/MoNET Control Board/ControlBoard.kicad_pcb **
+** Created on 2016-09-01 11:35:13 **
+
+** Found 1 DRC errors **
+ErrType(4): Track near pad
+    @ (3.4306 in,9.2407 in): Track 0.0157 in, net [+5V] (8) on layer F.Cu, length: 0.0736 in
+    @ (3.4580 in,9.1910 in): Pad 9 on F.Cu, B.Cu, Internal, Non-copper of U7
+
+** Found 46 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (1.8025 in,9.2275 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P5 net +3V3
+    @ (1.9025 in,9.2275 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P5
+ErrType(2): Unconnected pads
+    @ (2.7050 in,6.2850 in): Pad 25 on F.Cu, B.Cu, Internal, Non-copper of U1 net +3V3
+    @ (1.8050 in,6.2850 in): Pad 16 on F.Cu, B.Cu, Internal, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (1.8050 in,6.2850 in): Pad 16 on F.Cu, B.Cu, Internal, Non-copper of U1 net +3V3
+    @ (1.8100 in,7.1875 in): Pad 29 on F.Cu, B.Cu, Internal, Non-copper of U10
+ErrType(2): Unconnected pads
+    @ (1.8100 in,7.1875 in): Pad 29 on F.Cu, B.Cu, Internal, Non-copper of U10 net +3V3
+    @ (1.8025 in,9.2275 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P5
+ErrType(2): Unconnected pads
+    @ (4.0250 in,5.3850 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P6 net GND
+    @ (4.0250 in,6.0750 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of P4
+ErrType(2): Unconnected pads
+    @ (2.2933 in,7.0160 in): Pad 21 on F.Cu, Non-copper of U3 net GND
+    @ (2.5545 in,6.7993 in): Pad 3 on F.Cu, Non-copper of U3
+ErrType(2): Unconnected pads
+    @ (2.8100 in,6.5875 in): Pad 4 on F.Cu, B.Cu, Internal, Non-copper of U10 net GND
+    @ (2.6050 in,6.2850 in): Pad 24 on F.Cu, B.Cu, Internal, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (3.4525 in,6.8200 in): Pad 10 on F.Cu, B.Cu, Internal, Non-copper of U11 net GND
+    @ (3.3950 in,7.4973 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (4.7150 in,5.9700 in): Pad 6 on F.Cu, B.Cu, Internal, Non-copper of P1 net GND
+    @ (4.7150 in,6.3700 in): Pad 14 on F.Cu, B.Cu, Internal, Non-copper of P1
+ErrType(2): Unconnected pads
+    @ (4.7150 in,6.3700 in): Pad 14 on F.Cu, B.Cu, Internal, Non-copper of P1 net GND
+    @ (4.1250 in,6.3750 in): Pad 10 on F.Cu, B.Cu, Internal, Non-copper of P4
+ErrType(2): Unconnected pads
+    @ (4.0250 in,6.0750 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of P4 net GND
+    @ (4.1250 in,6.3750 in): Pad 10 on F.Cu, B.Cu, Internal, Non-copper of P4
+ErrType(2): Unconnected pads
+    @ (4.2500 in,9.8700 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P24 net GND
+    @ (4.2730 in,9.1162 in): Pad 2 on F.Cu, Non-copper of C1
+ErrType(2): Unconnected pads
+    @ (3.5500 in,8.2150 in): Pad 7 on F.Cu, B.Cu, Internal, Non-copper of U6 net GND
+    @ (3.1710 in,8.4422 in): Pad 2 on F.Cu, Non-copper of C4
+ErrType(2): Unconnected pads
+    @ (2.7510 in,8.5170 in): Pad 13 on F.Cu, B.Cu, Internal, Non-copper of U8 net GND
+    @ (2.7510 in,8.2170 in): Pad 4 on F.Cu, B.Cu, Internal, Non-copper of U8
+ErrType(2): Unconnected pads
+    @ (3.2425 in,9.8700 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P11 net GND
+    @ (3.1820 in,9.1232 in): Pad 2 on F.Cu, Non-copper of C2
+ErrType(2): Unconnected pads
+    @ (4.2800 in,8.4402 in): Pad 2 on F.Cu, Non-copper of C3 net GND
+    @ (4.0500 in,8.5150 in): Pad 15 on F.Cu, B.Cu, Internal, Non-copper of U6
+ErrType(2): Unconnected pads
+    @ (4.4500 in,9.8700 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P24 net A1
+    @ (2.3601 in,7.0829 in): Pad 24 on F.Cu, Non-copper of U3
+ErrType(2): Unconnected pads
+    @ (2.3378 in,7.0606 in): Pad 23 on F.Cu, Non-copper of U3 net A0
+    @ (2.0100 in,7.1875 in): Pad 27 on F.Cu, B.Cu, Internal, Non-copper of U10
+ErrType(2): Unconnected pads
+    @ (2.7975 in,9.8700 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P17 net GNDA
+    @ (2.3500 in,9.8700 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P3
+ErrType(2): Unconnected pads
+    @ (2.3000 in,9.2973 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of U5 net GNDA
+    @ (3.3950 in,9.2973 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (2.3500 in,9.8700 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P3 net GNDA
+    @ (2.3000 in,9.2973 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of U5
+ErrType(2): Unconnected pads
+    @ (3.1000 in,9.2973 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of U5 net +24V
+    @ (4.1950 in,9.2973 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of U2
+ErrType(2): Unconnected pads
+    @ (2.5975 in,9.8700 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P17 net +24V
+    @ (3.1000 in,9.2973 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of U5
+ErrType(2): Unconnected pads
+    @ (2.1500 in,9.8700 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P3 net +24V
+    @ (2.5975 in,9.8700 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P17
+ErrType(2): Unconnected pads
+    @ (1.8050 in,5.3850 in): Pad 15 on F.Cu, B.Cu, Internal, Non-copper of U1 net +5V
+    @ (2.2265 in,6.9492 in): Pad 18 on F.Cu, Non-copper of U3
+ErrType(2): Unconnected pads
+    @ (2.4877 in,6.7325 in): Pad 6 on F.Cu, Non-copper of U3 net +5V
+    @ (2.2265 in,6.9492 in): Pad 18 on F.Cu, Non-copper of U3
+ErrType(2): Unconnected pads
+    @ (2.2265 in,6.9492 in): Pad 18 on F.Cu, Non-copper of U3 net +5V
+    @ (2.3234 in,7.2800 in): Pad 2 on F.Cu, Non-copper of R1
+ErrType(2): Unconnected pads
+    @ (3.1100 in,7.1875 in): Pad 16 on F.Cu, B.Cu, Internal, Non-copper of U10 net +5V
+    @ (2.8100 in,7.1875 in): Pad 19 on F.Cu, B.Cu, Internal, Non-copper of U10
+ErrType(2): Unconnected pads
+    @ (2.1000 in,8.0100 in): Pad 26 on F.Cu, B.Cu, Internal, Non-copper of U4 net SCL
+    @ (4.4000 in,8.0100 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of U4
+ErrType(2): Unconnected pads
+    @ (4.4000 in,7.9100 in): Pad 4 on F.Cu, B.Cu, Internal, Non-copper of U4 net SDA
+    @ (2.1000 in,7.9100 in): Pad 25 on F.Cu, B.Cu, Internal, Non-copper of U4
+ErrType(2): Unconnected pads
+    @ (3.0425 in,9.8700 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P11 net +12V
+    @ (3.4580 in,8.8910 in): Pad 8 on F.Cu, B.Cu, Internal, Non-copper of U7
+ErrType(2): Unconnected pads
+    @ (4.0000 in,7.7100 in): Pad 9 on F.Cu, B.Cu, Internal, Non-copper of U4 net PWM2
+    @ (4.1580 in,8.8910 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of U7
+ErrType(2): Unconnected pads
+    @ (3.9000 in,7.7100 in): Pad 10 on F.Cu, B.Cu, Internal, Non-copper of U4 net PWM3
+    @ (3.4580 in,9.1910 in): Pad 9 on F.Cu, B.Cu, Internal, Non-copper of U7
+ErrType(2): Unconnected pads
+    @ (3.7000 in,7.7100 in): Pad 11 on F.Cu, B.Cu, Internal, Non-copper of U4 net PWM4
+    @ (3.0510 in,8.2170 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of U8
+ErrType(2): Unconnected pads
+    @ (3.6000 in,7.7100 in): Pad 12 on F.Cu, B.Cu, Internal, Non-copper of U4 net PWM5
+    @ (2.3510 in,8.5170 in): Pad 9 on F.Cu, B.Cu, Internal, Non-copper of U8
+ErrType(2): Unconnected pads
+    @ (3.5000 in,7.7100 in): Pad 13 on F.Cu, B.Cu, Internal, Non-copper of U4 net PWM6
+    @ (3.0570 in,8.8980 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of U9
+ErrType(2): Unconnected pads
+    @ (3.4000 in,7.7100 in): Pad 14 on F.Cu, B.Cu, Internal, Non-copper of U4 net PWM7
+    @ (2.3570 in,9.1980 in): Pad 9 on F.Cu, B.Cu, Internal, Non-copper of U9
+ErrType(2): Unconnected pads
+    @ (3.9500 in,8.2150 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of U6 net Red
+    @ (4.9100 in,7.6900 in): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of P2
+ErrType(2): Unconnected pads
+    @ (4.9100 in,7.8900 in): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of P2 net Green
+    @ (3.6500 in,8.5150 in): Pad 11 on F.Cu, B.Cu, Internal, Non-copper of U6
+ErrType(2): Unconnected pads
+    @ (3.9580 in,8.8910 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of U7 net Blue
+    @ (4.9100 in,8.0900 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of P2
+ErrType(2): Unconnected pads
+    @ (3.6580 in,9.1910 in): Pad 11 on F.Cu, B.Cu, Internal, Non-copper of U7 net White
+    @ (4.9100 in,8.2900 in): Pad 4 on F.Cu, B.Cu, Internal, Non-copper of P2
+ErrType(2): Unconnected pads
+    @ (2.8510 in,8.2170 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of U8 net Black
+    @ (4.9100 in,8.4900 in): Pad 5 on F.Cu, B.Cu, Internal, Non-copper of P2
+ErrType(2): Unconnected pads
+    @ (2.5510 in,8.5170 in): Pad 11 on F.Cu, B.Cu, Internal, Non-copper of U8 net Mix
+    @ (4.9100 in,8.6900 in): Pad 6 on F.Cu, B.Cu, Internal, Non-copper of P2
+ErrType(2): Unconnected pads
+    @ (2.8570 in,8.8980 in): Pad 3 on F.Cu, B.Cu, Internal, Non-copper of U9 net Spray
+    @ (4.9100 in,8.8900 in): Pad 7 on F.Cu, B.Cu, Internal, Non-copper of P2
+ErrType(2): Unconnected pads
+    @ (4.9100 in,9.0900 in): Pad 8 on F.Cu, B.Cu, Internal, Non-copper of P2 net Clean
+    @ (2.5570 in,9.1980 in): Pad 11 on F.Cu, B.Cu, Internal, Non-copper of U9
+ErrType(2): Unconnected pads
+    @ (4.0250 in,6.2750 in): Pad 7 on F.Cu, B.Cu, Internal, Non-copper of P4 net Net-(P4-Pad7)
+    @ (3.1050 in,6.2850 in): Pad 29 on F.Cu, B.Cu, Internal, Non-copper of U1
+
+** End of Report **

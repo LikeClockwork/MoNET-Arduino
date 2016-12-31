@@ -1,0 +1,355 @@
+Cmp-Mod V01 Created by PcbNew   date = Sunday, August 14, 2016 'PMt' 06:59:43 PM
+
+BeginCmp
+TimeStamp = 57B0D090
+Path = /57B0A730
+Reference = JP1;
+ValeurCmp = JUMPER3;
+IdModule  = SparkFun-Passives:PAD-JUMPER-3-NO_YES_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D09F
+Path = /57B0AEE9
+Reference = JP2;
+ValeurCmp = JUMPER3;
+IdModule  = SparkFun-Passives:PAD-JUMPER-3-NO_YES_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D0AE
+Path = /57B0AF51
+Reference = JP3;
+ValeurCmp = JUMPER3;
+IdModule  = SparkFun-Passives:PAD-JUMPER-3-NO_YES_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D0B7
+Path = /57B10866
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D0C0
+Path = /57B10AE0
+Reference = P2;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D0C9
+Path = /57AE61ED
+Reference = P3;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D0DA
+Path = /57B132B4
+Reference = P4;
+ValeurCmp = CONN_01X10;
+IdModule  = MonetControl:SCREWTERM_01X10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D0E3
+Path = /57B10556
+Reference = P5;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D123
+Path = /57B0EA75
+Reference = P7;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D134
+Path = /57B13225
+Reference = P8;
+ValeurCmp = CONN_01X10;
+IdModule  = MonetControl:SCREWTERM_01X10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D13D
+Path = /57B11114
+Reference = P9;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D146
+Path = /57B1103F
+Reference = P10;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D14F
+Path = /57B1544A
+Reference = P11;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D15E
+Path = /57B0E87F
+Reference = P12;
+ValeurCmp = CONN_01X08;
+IdModule  = MonetControl:SCREWTERM_01X08;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D167
+Path = /57AF2D1B
+Reference = P13;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D170
+Path = /57AF3399
+Reference = P14;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D179
+Path = /57AF357B
+Reference = P15;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D182
+Path = /57AF384A
+Reference = P16;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D18B
+Path = /57AE6432
+Reference = P17;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D194
+Path = /57AF2C9D
+Reference = P18;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D19D
+Path = /57AF3393
+Reference = P19;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D1A6
+Path = /57AF3575
+Reference = P20;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D1AF
+Path = /57AF3844
+Reference = P21;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D1B8
+Path = /57B0EB05
+Reference = P22;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D1C1
+Path = /57B0EB83
+Reference = P23;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D1CA
+Path = /57B0EC06
+Reference = P24;
+ValeurCmp = CONN_01X02;
+IdModule  = MonetControl:SCREWTERM_01X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D1D6
+Path = /57AF47E1
+Reference = R1;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D1E2
+Path = /57AF46BF
+Reference = R2;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D1EE
+Path = /57B0C27B
+Reference = R3;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D218
+Path = /57AE4861
+Reference = U1;
+ValeurCmp = NodeMCU;
+IdModule  = MonetControl:NODEMCU;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D224
+Path = /57AE3995
+Reference = U2;
+ValeurCmp = 5VReg;
+IdModule  = MonetControl:RioRandVoltReg;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D24F
+Path = /57B07BC3
+Reference = U3;
+ValeurCmp = MCP23017;
+IdModule  = Housings_DIP:DIP-28_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D274
+Path = /57AE36C1
+Reference = U4;
+ValeurCmp = I2CPWMDriver;
+IdModule  = MonetControl:I2C_PWM_DRIVER;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D280
+Path = /57AE3938
+Reference = U5;
+ValeurCmp = 12VReg;
+IdModule  = MonetControl:RioRandVoltReg;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D29F
+Path = /57ADFDD8
+Reference = U6;
+ValeurCmp = L293D;
+IdModule  = Housings_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D2BE
+Path = /57AF336C
+Reference = U7;
+ValeurCmp = L293D;
+IdModule  = Housings_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D2DD
+Path = /57AF354E
+Reference = U8;
+ValeurCmp = L293D;
+IdModule  = Housings_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D2FC
+Path = /57AF381D
+Reference = U9;
+ValeurCmp = L293D;
+IdModule  = Housings_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 57B0D11A
+Path = /57AF3C69
+Reference = P6;
+ValeurCmp = OLED_DISP;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 57C3E8C8
+Path = /57B113BE
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57C3E8D4
+Path = /57B128B5
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57C3E8E0
+Path = /57B12D81
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57C3E8EC
+Path = /57B1347B
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57C3E8F8
+Path = /57B13B84
+Reference = C5;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+EndListe
